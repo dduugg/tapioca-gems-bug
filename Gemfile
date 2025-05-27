@@ -3,6 +3,7 @@
 
 source 'https://rubygems.org'
 
-gemspec
-
-gem 'pry-byebug', '>= 3.9'
+gem 'set'
+gem 'sorbet'
+gem 'sorbet-runtime'
+gem 'tapioca'
